@@ -1,12 +1,10 @@
 import React from "react";
-import { useLanguage } from "../translate/LanguageContext";
 
 interface FooterProps {
   id?: string;
 }
 
-const Footer: React.FC<FooterProps> = ({ id }) => {
-  const { translations } = useLanguage();
+const Footer: React.FC<FooterProps> = () => {
 
   return (
     <footer className="flex flex-col items-center justify-between p-16 bg-white dark:bg-slate-900 sm:flex-row">
