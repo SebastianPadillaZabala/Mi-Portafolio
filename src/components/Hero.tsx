@@ -1,6 +1,6 @@
 import React from "react";
 import profile from "../img/profile.png";
-import cv from "../file/CV-SebastianPadilla.pdf";
+import cv from "../file/SebastianP-CV.pdf";
 import { useLanguage } from "../translate/LanguageContext";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
@@ -79,7 +79,7 @@ const Hero: React.FC<HeroProps> = ({ id }) => {
             </div>
           </div>
           <div className="lg:w-1/2 flex flex-col items-center">
-            <img className="w-[270px]" src={profile} alt="profile.png" />
+            <img className="w-[370px]" src={profile} alt="profile.png" />
             <div className="w-full flex justify-center mt-5">
               <div className="max-w-screen-md w-full px-4">
                 <h2 className="mb-4 text-2xl font-extrabold text-center text-slate-300">
