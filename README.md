@@ -7,9 +7,9 @@
   </h1>
 </a>
 
-# Duracruz
+# Portafolio
 
-Pagina Web de Duracruz
+Mi Portafolio
 
 ## Requisitos previos
 
@@ -21,13 +21,13 @@ Pagina Web de Duracruz
 1. Clonar el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/samucoxd/duracruz.git
+git clone https://github.com/SebastianPadillaZabala/Mi-Portafolio.git
 ```
 
 2. Navegar al directorio del proyecto:
 
 ```bash
-cd duracruz
+cd Mi-Portafolio
 ```
 
 3. Instalar las dependencias del proyecto:
